@@ -1,0 +1,32 @@
+{
+  "name": "watch_reload",
+  "version": "1.0.0",
+  "description": "provide hot reload mechanism for nodejs modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhchen/watch_reload.git"
+  },
+  "keywords": [
+    "nodejs",
+    "hot",
+    "reload",
+    "typescript"
+  ],
+  "author": "yhchen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yhchen/watch_reload/issues"
+  },
+  "homepage": "https://github.com/yhchen/watch_reload#readme",
+  "devDependencies": {
+    "@types/node": "^8.0.24",
+    "typescript": "^2.4.2"
+  },
+  "dependencies": {
+    "uneval": "^0.1.2"
+  }
+}

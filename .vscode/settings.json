@@ -1,0 +1,15 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "files.exclude": {
+        "bin/**/*.js": true,
+        "bin/**/*.js.map": true,
+        "node_modules/**/*.js": true
+    },
+
+    // show all write space
+    "editor.renderWhitespace": "all",
+
+    "typescript.tsdk": "./node_modules/typescript/lib/",
+    "typescript.referencesCodeLens.enabled": false,
+    "typescript.implementationsCodeLens.enabled": true
+}
